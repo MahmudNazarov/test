@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1440px;
+    max-height: 1440px;
+}
+.ok{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1530px;
+    height: 150px;
+    background-color: aliceblue;
+    box-shadow: 22,22,22,22;
+}
+.fugu{
+    display: flex;
+    margin-left: 350px;
+    gap: 25px;
+    width: 1000px;
+}
+.img{
+    width: 34px;
+    height: 31px;
+margin-top: 50px;
+}
+p{
+    font-size: 25px;
+    margin-top: 50px;
+}
+.loj{
+    margin-top: 25px;
+}
+.vc{
+    width: 15px;
+    height: 15px;
+    margin-top: 55px;
+}
+.kok{
+    display: flex;
+    gap: 15px;
+}
